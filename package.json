@@ -1,0 +1,25 @@
+{
+  "name": "yanthink-ueditor",
+  "version": "1.0.0",
+  "description": "react ueditor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanthink/react-ueditor.git"
+  },
+  "keywords": [
+    "react",
+    "ueditor",
+    "antd",
+    "富文本编辑器"
+  ],
+  "author": "yanthink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanthink/react-ueditor/issues"
+  },
+  "homepage": "https://github.com/yanthink/react-ueditor#readme"
+}
